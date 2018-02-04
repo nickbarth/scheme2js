@@ -1,6 +1,6 @@
 # scheme2js
 
-A Scheme to JavaScript Transpiler.
+A Scheme to JavaScript Transpiler. Work in progress.
 
 ### Usage
 
